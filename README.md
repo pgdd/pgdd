@@ -1,4 +1,4 @@
-![Header Image](./.images/github-profile-header.svg)
+![Header Image](./images/github-profile-header.svg)
 
 ---
 

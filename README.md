@@ -17,19 +17,19 @@ Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've
 
 ### 💡 Tech Expertise:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" height="80"><br>HTML  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" height="80"><br>CSS  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="80"><br>JavaScript  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="80"><br>TypeScript  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="80"><br>React  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="80"><br>Next.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" height="80"><br>Node.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="80"><br>Express.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height="80"><br>Redux  
-<img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" height="80"><br>MongoDB  
-<img src="https://raw.githubusercontent.com/sequelize/sequelize/main/logo.svg" height="80"><br>Sequelize  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050" height="80"><br>AWS  
-<img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-readme-headline.png" height="80"> Jest  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" height="80"><br><br>HTML<br>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" height="80"><br><br>CSS  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="80"><br><br>JavaScript  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="80"><br><br>TypeScript  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="80"><br><br>React  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="80"><br><br>Next.js  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" height="80"><br><br>Node.js  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="80"><br><br>Express.js  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height="80"><br><br>Redux  <br>
+<img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" height="80"><br><br>MongoDB  <br>
+<img src="https://raw.githubusercontent.com/sequelize/sequelize/main/logo.svg" height="80"><br><br>Sequelize  <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050" height="80"><br><br>AWS  <br>
+<img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-readme-headline.png" height="80"><br><br>Jest  <br>
 
 
 ---

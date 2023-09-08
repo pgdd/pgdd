@@ -33,15 +33,18 @@ Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've
 
 ---
 
-### 🌟 Highlights:x
+### 🌟 Highlights
 
 #### 🎙️ About:
 Starting from Parisian agencies 🗼 and moving through the challenges of founding startups 🌆, I've matured into a seasoned full-stack developer and dedicated JavaScript trainer. Now looking to contribute as a lead senior developer, I am drawn to environments where teamwork 🤝 and innovation are paramount for the success of projects and businesses.
 
-#### 📍 Work Preference:
-🇩🇪 Location: Berlin (Preferred for Full-time), Europe (Open to Remote or Partially Remote roles)
-🌍 Engagement: Freelance (Available for Full-time or Short-term projects), Employment Contract
-
+#### 📍 Work Preferences:
+- 🇩🇪 **Location**: 
+  - **Berlin**: Preferred for full-time roles (remote-first)
+  - **Europe**: Open to remote or partially remote roles
+- 🌍 **Engagement**: 
+  - **Freelance**: Open to full-time or short-term projects
+  - **Employment**: Open to contracts
 ---
 
 ### 🛠️ Experience:

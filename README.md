@@ -22,7 +22,7 @@ Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've
 <br><br>JavaScript  <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="80">
 <br><br>TypeScript  <br><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="80">
 <br><br>React<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" height="80">
-<br><br>Node.js<br><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="80">
+<br><br>Next.js<br><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="80">
 <br><br>Next.js<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" height="80">
 <br><br>Express.js <br><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="80">
 <br><br>Redux<br><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height="80">

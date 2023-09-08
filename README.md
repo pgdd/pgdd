@@ -3,7 +3,9 @@
 ---
 
 ### 📌 About Me
-Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've grown as a full-stack developer. This evolution took me to train devs from varied backgrounds in Brussels and Berlin, and even in corporate environments like the dynamic Dashlane Q/A Team! With vast experience and proficiency in JavaScript & React.js, I'm eager to re-engage as a lead senior developer, always focusing on projects where teamwork 🤝 and innovation 💡 take the front seat.
+Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, and freelancing I've grown as a full-stack developer. This took me to train devs from varied backgrounds in Brussels and Berlin, even in corporate environments like the dynamic Dashlane Q/A Team! With vast experience and proficiency in JavaScript & React.js, I'm eager to engage as a lead senior developer, always focusing on projects where teamwork 🤝 and innovation 💡 take the front seat.
+
+Let’s stay connected; I'm open to new opportunities!
 
 ---
 
@@ -36,7 +38,10 @@ Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've
 ### 🌟 Highlights
 
 #### 🎙️ About:
-Starting from Parisian agencies 🗼 and moving through the challenges of founding startups 🌆, I've matured into a seasoned full-stack developer and dedicated JavaScript trainer. Now looking to contribute as a lead senior developer, I am drawn to environments where teamwork 🤝 and innovation are paramount for the success of projects and businesses.
+From Parisian agencies 🗼 to founding startups 🌆 and freelancing, I've evolved as a full-stack developer with a keen focus on the React environment. My journey has taken me to train developers from diverse backgrounds using Agile methodologies in educational institutions and corporate settings. 
+
+I'm eager to step into a lead developer role, especially in projects where teamwork 🤝 and innovation 💡 are paramount for the greater good of the business.
+
 
 #### 📍 Work Preferences:
 - 🇩🇪 **Location**: 

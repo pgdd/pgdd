@@ -29,8 +29,7 @@ Hi, I'm Pierre. 🚀 From Parisian agencies 🗼 to founding startups 🌆, I've
 <br><br>MongoDB<br><img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" height="80">
 <br><br>Sequelize<br><img src="https://raw.githubusercontent.com/sequelize/sequelize/main/logo.svg" height="80">
 <br><br>AWS <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png?20170912170050" height="80">
-<img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-readme-headline.png" height="80"><br><br>Jest  <br>
-
+<br><br>Jest <br><img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-readme-headline.png" height="80">
 
 ---
 
